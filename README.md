@@ -18,7 +18,7 @@ i didnt write this. that would be crazy, which i'm not. i'm as normal as you are
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
 
-| [helping everyday people start and grow stock portfolios)](https://stockscommunity.com) | us, canada, uk, australia, denmark, etc...aka online | hanover, nh | April 2026 | alive | a month |
+| [helping everyday people start and grow stock portfolios)](https://stockscommunity.com) | us, canada, uk, australia, denmark, etc aka online | hanover, nh | April 2026 | alive | a month |
 | [running out of time to find a wifey-zone girlfriend (10 years left MAX)](https://therunclub.org) | in person | hanover, nh | March 2026 | alive | a month |
 | [online biz cofounder](https://raw.githubusercontent.com/SamPutnam/Index-2025/refs/heads/master/admit%20one.png) | in person | hanover, nh | February 2026 | alive | a month |
 | [tiktok shop cofounder](https://github.com/SamPutnam/Index-2025/blob/master/run%20club%20(43).png) | in person | hanover, nh | January 2026 | alive | a month |
