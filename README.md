@@ -17,8 +17,6 @@ i didnt write this. that would be crazy, which i'm not. i'm as normal as you are
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-
-
 | [online biz cofounder](https://raw.githubusercontent.com/SamPutnam/Index-2025/refs/heads/master/admit%20one.png) | in person | hanover, nh | February 2026 | alive | a month |
 | [tiktok shop cofounder](https://github.com/SamPutnam/Index-2025/blob/master/run%20club%20(43).png) | in person | hanover, nh | January 2026 | alive | a month |
 | [make titktoks make money](https://github.com/SamPutnam/Index-2025/blob/master/run%20club%20(42)%20(1).png) | in person | hanover, nh | December 2025 | alive | a month |
