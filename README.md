@@ -17,6 +17,10 @@ i didnt write this. that would be crazy, which i'm not. i'm as normal as you are
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [helping high net worth women grow stock portfolios in 10-20 minutes a week](https://herstocks.com) | us, uk, denmark, sweden, norway, etc aka online | hanover, nh | July 2026 | alive | a month |
+| [helping high net worth women grow stock portfolios](https://herstocks.com) | us, canada, uk, italy, denmark, etc aka online | hanover, nh | June 2026 | alive | a month |
+| [helping women grow stock portfolios](https://marketfemme.com) | us, canada, uk, sweden, denmark, etc aka online | hanover, nh | May 2026 | alive | a month |
+| [helping women start and grow stock portfolios](https://marketbabe.com) | us, canada, uk, australia, denmark, etc aka online | hanover, nh | April 2026 | alive | a month |
 | [helping everyday people start and grow stock portfolios](https://stockscommunity.com) | us, canada, uk, australia, denmark, etc aka online | hanover, nh | April 2026 | alive | a month |
 | [running out of time to find a wifey-zone girlfriend (10 years left MAX)](https://therunclub.org) | in person | hanover, nh | March 2026 | alive | a month |
 | [online biz cofounder](https://raw.githubusercontent.com/SamPutnam/Index-2025/refs/heads/master/admit%20one.png) | in person | hanover, nh | February 2026 | alive | a month |
