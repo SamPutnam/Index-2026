@@ -17,6 +17,10 @@ i didnt write this. that would be crazy, which i'm not. i'm as normal as you are
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Advise yourself](https://selfadvisers.com) | new york, london, copenhagen, stockholm, trondheim, etc aka online | hanover, nh | November 2026 | alive | a month |
+| [firmly deciding there is zero upside to continuing to be on this godforsaken platform, especially as a straight guy](https://tiktok.com/samputnam) | san francisco, exeter, aarhus, gotenburg, munich, etc aka online | hanover, nh | October 2026 | alive | a month |
+| [spending $700 on a domain name to get the version that is not plural and getting told that it is unsavory](https://stockceo.com) | jackson hole, gavel, dusseldorf, amsterdam, luxembourg, etc aka online | hanover, nh | September 2026 | alive | a month |
+| [interviews with Alex Karp and other public company CEOs in downtown ivy league Hanover (or so I think the plan was...)](https://stockceos.com) | waterloo, aberdeen, geneva, cape town, perth, etc aka online | hanover, nh | August 2026 | alive | a month |
 | [helping high net worth women grow stock portfolios in 10-20 minutes a week](https://herstocks.com) | us, uk, denmark, sweden, norway, etc aka online | hanover, nh | July 2026 | alive | a month |
 | [helping high net worth women grow stock portfolios](https://herstocks.com) | us, canada, uk, italy, denmark, etc aka online | hanover, nh | June 2026 | alive | a month |
 | [helping women grow stock portfolios](https://marketfemme.com) | us, canada, uk, sweden, denmark, etc aka online | hanover, nh | May 2026 | alive | a month |
