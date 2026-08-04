@@ -17,6 +17,20 @@ i didnt write this. that would be crazy, which i'm not. i'm as normal as you are
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | January 2028 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | December 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | November 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | October 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | September 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | August 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | July 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | June 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | May 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | April 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | March 2027 | alive | a month |
+| [Advisers](https://selfadvisers.com) | Advisers | hanover, nh | February 2027 | alive | a month |
+| [Self](https://selfadvisers.com) | Self | hanover, nh | January 2027 | alive | a month |
+| [FYC (for your convenience): Transcript: All right, brother. Here's the pitch. So, this is Traders at a Cause a few years ago, right? That's you, right? I went there. I was wearing this Snoopy shirt. There's Jack. That's not Jack. There's Jack. There's Kyle. And let's just get into this. I'll edit out the slow parts. I know the microphone's trash. I don't use this for the YouTube. Obviously, your YouTube stuff's great. So, who the hell is Matt, right? Let's see where we're at here. Why was I talking to you and Matt or whatever. So, you saw part of that video. You know, 50% profit on $50 million a year. Maybe a little more this year. He has 14 employees, maybe a little more. So, his take-home is like $25 million a year. So, he had Jason Derulo, I think his music festival lost like a million or two this year. Someone who was at the Sioux Falls event that I went to last weekend. It's like Traders for a Cause, but imagine instead of like Sang Lucci and, you know, Steven Dux and the Short Bear, Lukas, whatever, it's the newsletter guys, right? Martin Shkreli was just on TBPN. He was talking about "start a $100 million newsletter" instead of being the Leopold and trying to be a hedge fund guy.](https://selfadvisers.com) | Building | hanover, nh | December 2026 | alive | a month |
 | [Advise yourself](https://selfadvisers.com) | new york, london, copenhagen, stockholm, trondheim, etc aka online | hanover, nh | November 2026 | alive | a month |
 | [firmly deciding there is zero upside to continuing to be on this godforsaken platform, especially as a straight guy](https://tiktok.com/samputnam) | san francisco, exeter, aarhus, gotenburg, munich, etc aka online | hanover, nh | October 2026 | alive | a month |
 | [spending $700 on a domain name to get the version that is not plural and getting told that it is unsavory](https://stockceo.com) | jackson hole, gavel, dusseldorf, amsterdam, luxembourg, etc aka online | hanover, nh | September 2026 | alive | a month |
